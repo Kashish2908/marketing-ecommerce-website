@@ -264,6 +264,7 @@ input#userType:focus + .searchShow {
   margin-top: 2vh;
   font-weight: 400;
   word-spacing: 0.1vw;
+  line-height: 2vw;
 }
 
 /* page1 */
